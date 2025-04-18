@@ -1,0 +1,50 @@
+{
+	"id":"PC6F-JQBv9knK3AHlTUO",
+	"title":"B4U Movies APAC",
+	"playbackDetails":{
+		"data":[
+			{
+				"url":"https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
+				"streaming_format":"HLS",
+				"type":"video",
+				"content_type":"LINEAR",
+				"package_id":"1"
+			}
+		],
+		"message":"Successfully Created",
+		"success":true,
+		"playbackType":"Internal",
+		"drmToken":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250ZW50aWQiOiJQQzZGLUpRQnY5a25LM0FIbFRVTyIsInVzZXJpZCI6IjBmNTZlYzkxLTY1YjItNDcwMS05Yjk3LTE3YTAwNDBiZDJmZSIsImRldmljZWlkIjoibmEiLCJzZWN1cml0eUxldmVsIjpudWxsLCJsaWNlbnNlRHVyYXRpb24iOiIiLCJvZmZsaW5lUGxheWJhY2siOiJmYWxzZSIsImhkY3AiOm51bGwsImlhdCI6MTc0NDk2MjU2OCwiZXhwIjoxNzQ0OTYyODY4fQ.qe0qjg30dgjyOi98qr3Me9xsKWj0JSTsvALqLB5VPM7rFdB2_NhSWWfhzjM-7kM_Fp66F1i7AXU4A1qGdueaHhRcGZS3hRVQ4-OhPt0DAAtEsHWgrakMteSAYc3S2EmoeAIf7bttkmGrT04LP5UKhippYG_K1G5pkBInOQZRJImDePzr93WhVr-OQecbK9DqfVOAmwj3DnMcX3AaAGyRl1hgAAcCREkHL9QnD1p8f4idXjA4TGjnjIUBvWr5fLWXDBCikgtBBggJfjwE6JTC215EDDX6OkxeznUSVpt0jyFXMpgTZRAfgcEe5c0hqAOpGrxhRNjLIDQUyOX7lQAmNg"
+	},
+	"ads":"yes",
+	"offlinePlayback":"false",
+	"access":"allow",
+	"adsDetails":{
+		"pre_roll":{
+			"show":true,
+			"count":1,
+			"url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/22419763167/Toffee_instream_preroll_website_live&description_url=https%3A%2F%2Ftoffeelive.com&tfcd=0&npa=0&sz=1280x720%7C1920x1080&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator= AND https://servg.eskimi.com/api/adserver61/vast/?AV_PUBLISHERID=654a6958e3e829c76b04b8e6&AV_CHANNELID=654a6a468bbf29c2920d7156&AV_URL=[
+				URL_MACRO
+			]&cb=[
+				TIMESTAMP_MACRO
+			]&AV_WIDTH=[
+				WIDTH_MACRO
+			]&AV_HEIGHT=[
+				HEIGHT_MACRO
+			]&AV_SCHAIN=[
+				SCHAIN_MACRO
+			]&logo=false"
+		},
+		"mid_roll":{
+			"show":false,
+			"interval":0,
+			"count":0,
+			"url":""
+		},
+		"post_roll":{
+			"show":false,
+			"count":0,
+			"url":""
+		}
+	}
+}
